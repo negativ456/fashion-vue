@@ -1,0 +1,86 @@
+[
+  {
+    "title": "トップ",
+    "path": ""
+  },
+  {
+    "title": "製品",
+    "path": "business/products"
+  },
+  {
+    "title": "アイテム1",
+    "path": "business/products/item1"
+  },
+  {
+    "title": "アイテム2",
+    "path": "business/products/item2"
+  },
+  {
+    "title": "アイテム3",
+    "path": "business/products/item3"
+  },
+  {
+    "title": "施設紹介",
+    "path": "business/facilities"
+  },
+  {
+    "title": "実績紹介",
+    "path": "works"
+  },
+  {
+    "title": "実績リスト",
+    "path": "works/list"
+  },
+  {
+    "title": "実績1",
+    "path": "works/works1"
+  },
+  {
+    "title": "実績2",
+    "path": "works/works2"
+  },
+  {
+    "title": "実績3",
+    "path": "works/works3"
+  },
+  {
+    "title": "会社案内",
+    "path": "company"
+  },
+  {
+    "title": "ニュース",
+    "path": "news"
+  },
+  {
+    "title": "ニュース詳細",
+    "path": "news/detail"
+  },
+  {
+    "title": "採用案内",
+    "path": "recruit"
+  },
+  {
+    "title": "中途採用",
+    "path": "recruit/mid_career"
+  },
+  {
+    "title": "エントリーフォーム",
+    "path": "recruit/entry"
+  },
+  {
+    "title": "お問い合わせ",
+    "path": "contact"
+  },
+  {
+    "title": "プライバシーポリシー",
+    "path": "privacy"
+  },
+  {
+    "title": "情報セキュリティ基本方針",
+    "path": "policy"
+  },
+  {
+    "title": "サイトマップ",
+    "path": "sitemap"
+  }
+]
